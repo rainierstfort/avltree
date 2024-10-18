@@ -1,0 +1,1 @@
+This is an AVL Tree made from scratch, using C++14, created for a project in my Data Structures and Algorthims course. These files include test units using Catch framework (test.cpp), a main.cpp, a class.h, and a class.cpp.
